@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dell\\OneDrive\\Documentos\\Ale\\crud-backend\\crudcore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFF9A1-264F-43D6-9BEE-A4CC956FB6A9}|crudcore\\crudcore.csproj|c:\\users\\dell\\onedrive\\documentos\\ale\\crud-backend\\crudcore\\crudcore\\models\\dbcrudcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EFF9A1-264F-43D6-9BEE-A4CC956FB6A9}|crudcore\\crudcore.csproj|solutionrelative:crudcore\\models\\dbcrudcorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EFF9A1-264F-43D6-9BEE-A4CC956FB6A9}|crudcore\\crudcore.csproj|c:\\users\\dell\\onedrive\\documentos\\ale\\crud-backend\\crudcore\\crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62EFF9A1-264F-43D6-9BEE-A4CC956FB6A9}|crudcore\\crudcore.csproj|solutionrelative:crudcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Documentos\\Ale\\crud-backend\\crudcore\\crudcore\\appsettings.json",
+              "RelativeDocumentMoniker": "crudcore\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Documentos\\Ale\\crud-backend\\crudcore\\crudcore\\appsettings.json",
+              "RelativeToolTip": "crudcore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T22:13:44.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbcrudcoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\OneDrive\\Documentos\\Ale\\crud-backend\\crudcore\\crudcore\\Models\\DbcrudcoreContext.cs",
+              "RelativeDocumentMoniker": "crudcore\\Models\\DbcrudcoreContext.cs",
+              "ToolTip": "C:\\Users\\dell\\OneDrive\\Documentos\\Ale\\crud-backend\\crudcore\\crudcore\\Models\\DbcrudcoreContext.cs*",
+              "RelativeToolTip": "crudcore\\Models\\DbcrudcoreContext.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T22:09:53.69Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
