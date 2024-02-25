@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crudcore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcfd2848280988ce2afc349fcb25b76028d1cc1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce0a7791b063c8c4ad8c6cb4f9f8355ec325db91")]
 [assembly: System.Reflection.AssemblyProductAttribute("crudcore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crudcore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,5 +2,12 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 /crudcore/.vs/crudcore/FileContentIndex/705a405f-7fbe-46b4-afaf-6c7dffe9c335.vsidx
 /crudcore/.vs/crudcore/FileContentIndex/cdc1f522-4731-48a7-ae3f-c8047d29c229.vsidx
+=======
+/crudcore/.vs/crudcore/FileContentIndex/5179067b-c63b-4210-819f-571e32f1d5b4.vsidx
+/crudcore/.vs/crudcore/FileContentIndex/d7faf4e0-98f9-44e0-88ce-1d6f4e0b3224.vsidx
+>>>>>>> feature-conection
+/crudcore/.vs/crudcore/FileContentIndex/fb887855-f6a5-4996-ae0c-bd789bc02bff.vsidx
+/crudcore/.vs/crudcore/FileContentIndex/d1b420f3-135d-4459-809f-b260081ebe1f.vsidx
